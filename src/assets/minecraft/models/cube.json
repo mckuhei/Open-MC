@@ -1,0 +1,78 @@
+{
+  "parent": null,
+  "surfaces": [
+    {
+      "id": "cube_face_0",
+      "culling": "solid_face_0",
+      "vertex0": [0,0,1],
+      "vertex1": [0,0,0],
+      "vertex2": [1,0,0],
+      "vertex3": [1,0,1],
+      "tc0": [0,1],
+      "tc1": [0,0],
+      "tc2": [0,1],
+      "tc3": [1,1]
+    },
+    {
+      "id": "cube_face_1",
+      "culling": "solid_face_1",
+      "vertex0": [1,1,1],
+      "vertex1": [1,1,0],
+      "vertex2": [0,1,0],
+      "vertex3": [0,1,1],
+      "tc0": [1,1],
+      "tc1": [1,0],
+      "tc2": [0,0],
+      "tc3": [0,1]
+    },
+    {
+      "id": "cube_face_2",
+      "culling": "solid_face_2",
+      "vertex0": [0,1,0],
+      "vertex1": [1,1,0],
+      "vertex2": [1,0,0],
+      "vertex3": [0,0,0],
+      "tc0": [1,0],
+      "tc1": [0,0],
+      "tc2": [0,1],
+      "tc3": [1,1]
+    },
+    {
+      "id": "cube_face_3",
+      "culling": "solid_face_3",
+      "vertex0": [0,1,1],
+      "vertex1": [0,0,1],
+      "vertex2": [1,0,1],
+      "vertex3": [1,1,1],
+      "tc0": [0,0],
+      "tc1": [0,1],
+      "tc2": [1,1],
+      "tc3": [1,0]
+    },
+    {
+      "id": "cube_face_4",
+      "culling": "solid_face_4",
+      "vertex0": [0,1,1],
+      "vertex1": [0,1,0],
+      "vertex2": [0,0,0],
+      "vertex3": [0,0,1],
+      "tc0": [1,0],
+      "tc1": [0,0],
+      "tc2": [0,1],
+      "tc3": [1,1]
+    },
+    {
+      "id": "cube_face_5",
+      "culling": "solid_face_5",
+      "textures": null,
+      "vertex0": [1,0,1],
+      "vertex1": [1,0,0],
+      "vertex2": [1,1,0],
+      "vertex3": [1,1,1],
+      "tc0": [0,1],
+      "tc1": [1,1],
+      "tc2": [1,0],
+      "tc3": [0,0]
+    }
+  ]
+}

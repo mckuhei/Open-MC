@@ -1,0 +1,47 @@
+{
+  "rotation": "no",
+  "objects": [
+    {
+      "from": [0,0,0],
+      "to": [1,1,1],
+      "faces": {
+        "top":{
+          "uv_from":[0,0],
+          "uv_to": [1,1],
+          "textures": "/textures/block/dirt.png",
+          "culling": "solid_block_top_absolute"
+        },
+        "down":{
+          "uv_from":[0,0],
+          "uv_to": [1,1],
+          "textures": "/textures/block/dirt.png",
+          "culling": "solid_block_bottom_absolute"
+        },
+        "left":{
+          "uv_from":[0,0],
+          "uv_to": [1,1],
+          "textures": "/textures/block/dirt.png",
+          "culling": "solid_block_left_absolute"
+        },
+        "right":{
+          "uv_from":[0,0],
+          "uv_to": [1,1],
+          "textures": "/textures/block/dirt.png",
+          "culling": "solid_block_right_absolute"
+        },
+        "front":{
+          "uv_from":[0,0],
+          "uv_to": [1,1],
+          "textures": "/textures/block/dirt.png",
+          "culling": "solid_block_front_absolute"
+        },
+        "back":{
+          "uv_from":[0,0],
+          "uv_to": [1,1],
+          "textures": "/textures/block/dirt.png",
+          "culling": "solid_block_back_absolute"
+        }
+      }
+    }
+  ]
+}
