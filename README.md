@@ -8,7 +8,7 @@ This project is support by SunRiseTechStudio
 
 ### 介绍/Introduction
 
-这是一个测试平台基础版（或者可能是修改版），来自[minecraft classic]（class.minecraft.net）0.0.13a。
+这是一个测试平台基础版（或者可能是修改版），来自[minecraft classic](class.minecraft.net)0.0.13a。
 目前，重写（自行添加）的代码约占总代码的90%，保留了约10%的mojang源代码。
 我们正在努力使其稳定，高性能，易于扩展。
 
