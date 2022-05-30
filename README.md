@@ -1,9 +1,11 @@
 # Open-MC
 
-我想我的脑子有问题，或者我为什么要创建这个项目--GrassBlock2022
+我想我的脑子有问题，不然我为什么要创建这个项目--GrassBlock2022
+
 该项目由SunRiseTechStudio支持
 
 i think there is something wrong with my mind,or why i create this project?——GrassBlock2022
+
 This project is support by SunRiseTechStudio
 
 ### 介绍/Introduction
