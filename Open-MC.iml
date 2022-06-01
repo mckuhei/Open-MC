@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/natives" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/STS2022" isTestSource="false" packagePrefix="tcgstudio2022" />
+      <sourceFolder url="file://$MODULE_DIR$/libraries" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
