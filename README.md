@@ -1,5 +1,8 @@
 # Open-MC
 
+![OpenMC png](https://user-images.githubusercontent.com/74001578/171201549-497f2ea5-c7e1-4593-b1fc-5d83e8db9b56.png)
+
+
 我想我的脑子有问题，不然我为什么要创建这个项目--GrassBlock2022
 
 该项目由SunRiseTechStudio支持
