@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/netty-all-4.1.20.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/netty-all-4.1.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/fastjson2-extension-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/fastjson2-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/j-ogg-all-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/joml-1.10.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
