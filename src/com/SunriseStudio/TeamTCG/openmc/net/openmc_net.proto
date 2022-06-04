@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package com.SunriseStudio.TeamTCG.openmc.net;
+
+option java_package = "com.SunriseStudio.TeamTCG.openmc.net.protocol";
+
+option java_outer_classname="NetHandler";
+
+//client
+message Chat{
+  string sender=1;
+  string message=2;
+  string target=3;
+}
+
+message GetChunk{
+  int64 pos_x=1;
+  int64 pos_z=2;
+  sint32 load_type=3;
+  sint32 load_time=4;
+}
+
+message ChangePos{
+  double new_x=1;
+  double nre_y=2;
+  double new_z=3;
+}
+
+message Join{
+  string name=1;
+  string uuid=2;
+}
+
+message Leave{
+  string name=1;
+  string uuid=2;
+}
+
+message SendBlockChange{
+  int64 pos_x=1;
+  int64 pos_y=2;
+  int64 pos_z=3;
+  int64 block_id=4;
+  int32 block_facing=5;
+}
