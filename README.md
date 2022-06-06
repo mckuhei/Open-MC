@@ -18,7 +18,7 @@ We are trying to make it being fast,high performance and easy expandable.
 
 ### 启动游戏/start game
 
-##### jvm 参数/jvm args
+#### jvm 参数/jvm args
 
 一个必要的参数是-Djava.library.path。如果您不使用外置natives，这个选项的值是"natives"。
 你当然可以在此参数的基础上使用任意参数，但请尽量多分配内存（最少768m，1000m+）
@@ -26,6 +26,6 @@ We are trying to make it being fast,high performance and easy expandable.
 A required parameter is '-djava library. path。 If you do not use external natives, the value of this option is "natives".
 Of course, you can use any parameter based on this parameter, but please allocate as much memory as possible (at least 768m, 1000m+)
 
-##### 游戏参数/game args
+#### 游戏参数/game args
 - -gamePath：覆盖自动识别的游戏根目录位置/Overwrite automatically recognized game root location
 - -fullScreen：决定游戏是否全屏（很不幸lwjgl的全屏貌似有bug）/Decide whether the game is full screen (unfortunately, lwjgl seems to have a bug on full screen)
