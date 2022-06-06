@@ -1,7 +1,5 @@
 # Open-MC
 
-![OpenMC png](https://user-images.githubusercontent.com/74001578/171201549-497f2ea5-c7e1-4593-b1fc-5d83e8db9b56.png)
-
 ### 介绍/Introduction
 
 这是一个测试平台（或者可能是修改版），来自[minecraft classic](http://class.minecraft.net) 0.0.13a。
@@ -27,3 +25,7 @@ We are trying to make it being fast,high performance and easy expandable.
 
 A required parameter is '-djava library. path。 If you do not use external natives, the value of this option is "natives".
 Of course, you can use any parameter based on this parameter, but please allocate as much memory as possible (at least 768m, 1000m+)
+
+##### 游戏参数/game args
+- -gamePath：覆盖自动识别的游戏根目录位置/Overwrite automatically recognized game root location
+- -fullScreen：决定游戏是否全屏（很不幸lwjgl的全屏貌似有bug）/Decide whether the game is full screen (unfortunately, lwjgl seems to have a bug on full screen)
