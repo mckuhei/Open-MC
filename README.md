@@ -21,7 +21,3 @@ We are trying to make it being fast,high performance and easy expandable.
 - 立方体/Cube：服务端代码和数据兼容/Server and network core,data compatibility
 - 土拨鼠/HappyTBS：艺术设计/Art design
 
-我想我的脑子有问题，不然我为什么要创建这个项目?--GrassBlock2022
-
-I think there is something wrong with my mind,or why I create this project?——GrassBlock2022
-
