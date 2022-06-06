@@ -2,9 +2,6 @@
 
 ![OpenMC png](https://user-images.githubusercontent.com/74001578/171201549-497f2ea5-c7e1-4593-b1fc-5d83e8db9b56.png)
 
-
-
-
 ### 介绍/Introduction
 
 这是一个测试平台（或者可能是修改版），来自[minecraft classic](http://class.minecraft.net) 0.0.13a。
@@ -21,3 +18,12 @@ We are trying to make it being fast,high performance and easy expandable.
 - 立方体/Cube：服务端代码和数据兼容/Server and network core,data compatibility
 - 土拨鼠/HappyTBS：艺术设计/Art design
 
+### 启动游戏/start game
+
+##### jvm 参数/jvm args
+
+一个必要的参数是-Djava.library.path。如果您不使用外置natives，这个选项的值是"natives"。
+你当然可以在此参数的基础上使用任意参数，但请尽量多分配内存（最少768m，1000m+）
+
+A required parameter is '-djava library. path。 If you do not use external natives, the value of this option is "natives".
+Of course, you can use any parameter based on this parameter, but please allocate as much memory as possible (at least 768m, 1000m+)
