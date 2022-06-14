@@ -18,13 +18,17 @@ We are trying to make it being fast,high performance and easy expandable.
 
 ### 启动游戏/start game
 
-#### jvm 参数/jvm args
+#### 配置要求/config requirement
 
-一个必要的参数是-Djava.library.path。如果您不使用外置natives，这个选项的值是"natives"。
-你当然可以在此参数的基础上使用任意参数，但请尽量多分配内存（最少768m，1000m+）
+- cpu：任意（如果你认为cpu占用偏高那就调小loadingDistance）
+- 显卡：任意（最少支持openGL1.1）
+- 内存：384m+
+- jvm：64位，版本大于等于14
 
-A required parameter is '-djava library. path。 If you do not use external natives, the value of this option is "natives".
-Of course, you can use any parameter based on this parameter, but please allocate as much memory as possible (at least 768m, 1000m+)
+- CPU: any (if you think the CPU usage is too high, reduce the loadingdistance)
+- Graphics card: any (at least opengl1.1)
+- Memory: 384m+
+- Jvm:64 bit, version ≥ 14
 
 #### 游戏参数/game args
 - -gamePath：覆盖自动识别的游戏根目录位置/Overwrite automatically recognized game root location
