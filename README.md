@@ -3,7 +3,7 @@
 ### 介绍/Introduction
 
 这是一个测试平台（或者可能是修改版），来自[minecraft classic](http://classic.minecraft.net) 0.0.13a。
-目前，重写（自行添加）的代码约占总代码的90%，保留了约10%的mojang源代码。
+目前该版本已经完全重写，添加了自定义着色器，模型，方块，实体的支持。今后将添加多维度，服务器和网络，自定义实体AI
 我们正在努力使其稳定，高性能，易于扩展。
 
 This is a test platform basic(or maybe,modified)from [minecraft classic](http://classic.minecraft.net) 0.0.13a.
